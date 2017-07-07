@@ -1,1 +1,7 @@
-﻿/*/build/
+﻿/*/build
+/*.idea
+/*.gradle
+
+*.iml
+*.bat
+*local.properties
